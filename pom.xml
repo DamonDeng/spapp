@@ -67,7 +67,13 @@
         <artifactId>jaxb-core</artifactId>
         <version>2.3.0.1</version>
     </dependency>
-	
+
+	<dependency>
+            <groupId>jakarta.persistence</groupId>
+            <artifactId>jakarta.persistence-api</artifactId>
+        </dependency>
+		
+
 
 
 	</dependencies>
