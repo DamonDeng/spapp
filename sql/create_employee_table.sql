@@ -1,3 +1,5 @@
+USE spapp;
+
 CREATE TABLE employees (
     id INT AUTO_INCREMENT,
     name VARCHAR(100),
